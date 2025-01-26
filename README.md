@@ -1,6 +1,6 @@
 ## Hi there, I'm Madhur Goyal 👋
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=mgoyal98.mgoyal98)
+![](https://komarev.com/ghpvc/?username=mgoyal98&color=0e75b6&style=flat)
 
 Welcome to my GitHub profile! I'm a passionate software developer interested in building efficient, scalable, and high-performing applications. I specialize in backend development, frontend development, and cloud technologies.
 
@@ -30,19 +30,3 @@ Welcome to my GitHub profile! I'm a passionate software developer interested in 
 Feel free to explore my repositories and contribute. I'm always up for learning and collaborating with others!
 
 Thanks for visiting my profile! 😄
-
-
-<!--
-**mgoyal98/mgoyal98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

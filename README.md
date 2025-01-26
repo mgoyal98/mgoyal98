@@ -1,6 +1,6 @@
 ## Hi there, I'm Madhur Goyal 👋
 
-![](https://komarev.com/ghpvc/?username=mgoyal98&color=0e75b6&style=flat)
+![](https://komarev.com/ghpvc/?username=mgoyal98&color=0e75b6&style=for-the-badge)
 
 Welcome to my GitHub profile! I'm a passionate software developer interested in building efficient, scalable, and high-performing applications. I specialize in backend development, frontend development, and cloud technologies.
 
@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm a passionate software developer interested in 
 
 ## 🚀 Technologies & Tools
 
-- **Backend:** Node.js, Express, NestJS, Go Lang 
+- **Backend:** Node.js, Express, NestJS, Go Lang, Kafka 
 - **Frontend:** React, Vite, Next.js, Tailwind CSS
 - **Cloud & DevOps:** AWS, Docker, CI/CD
 - **Databases:** MongoDB, MySQL

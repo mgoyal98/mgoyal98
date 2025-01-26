@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# Hi there, I'm Madhur Goyal 👋
+## Hi there, I'm Madhur Goyal 👋
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=mgoyal98.mgoyal98)
 

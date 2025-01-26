@@ -21,9 +21,10 @@ Welcome to my GitHub profile! I'm a passionate software developer interested in 
 
 ## 🔗 Links
 
-- [My LinkedIn](https://www.linkedin.com/in/madhur-goyal/)
-- [My Website](https://mgoyal.com)
-- [My GitHub](https://github.com/mgoyal98)
+- [LinkedIn](https://www.linkedin.com/in/madhur-goyal/)
+- [Website](https://mgoyal.com)
+- [GitHub](https://github.com/mgoyal98)
+- [Leetcode](https://leetcode.com/u/madhur-goyal)
 
 Feel free to explore my repositories and contribute. I'm always up for learning and collaborating with others!
 

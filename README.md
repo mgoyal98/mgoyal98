@@ -1,7 +1,5 @@
 ## Hi there, I'm Madhur Goyal 👋
 
-![](https://komarev.com/ghpvc/?username=mgoyal98&color=0e75b6&style=for-the-badge)
-
 Welcome to my GitHub profile! I'm a passionate software developer interested in building efficient, scalable, and high-performing applications. I specialize in backend development, frontend development, and cloud technologies.
 
 ## 🧑‍💻 About Me
@@ -30,3 +28,5 @@ Welcome to my GitHub profile! I'm a passionate software developer interested in 
 Feel free to explore my repositories and contribute. I'm always up for learning and collaborating with others!
 
 Thanks for visiting my profile! 😄
+
+![](https://komarev.com/ghpvc/?username=mgoyal98&color=0e75b6&style=for-the-badge)
